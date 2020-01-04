@@ -1,0 +1,23 @@
+
+.name{
+	float:left;
+}
+.login{
+	float:right;
+}
+h4{
+	font-weight: bold;
+}
+.bbs-date{
+	float:right;
+}
+.navbox{
+	background: #ef6a6c;
+	color:#fff;
+}
+.navbox a{
+	color:#fff;
+}
+.footer{
+	background:#ef6a6c;
+}
